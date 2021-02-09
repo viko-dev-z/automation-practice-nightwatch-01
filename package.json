@@ -1,0 +1,24 @@
+{
+  "name": "automation-practice-nightwatch-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viko-dev-z/automation-practice-nightwatch-01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viko-dev-z/automation-practice-nightwatch-01/issues"
+  },
+  "homepage": "https://github.com/viko-dev-z/automation-practice-nightwatch-01#readme",
+  "devDependencies": {
+    "chromedriver": "^88.0.0",
+    "geckodriver": "^1.22.1",
+    "nightwatch": "^1.5.1"
+  }
+}
